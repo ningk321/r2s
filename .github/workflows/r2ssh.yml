@@ -4,7 +4,7 @@
 # Author: kenzo
 #=================================================
 
-name: nanopi-r2s
+name: nanopi-r2ssh
 
 on:
   repository_dispatch:
